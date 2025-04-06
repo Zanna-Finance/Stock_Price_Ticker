@@ -1,4 +1,4 @@
-# Seeeduino XIAO CircuitPython Stock Tracker
+# StockPulse by Zanna Finance
 
 A real-time stock ticker display using Seeed Studio hardware and the Tiingo financial data API.
 
