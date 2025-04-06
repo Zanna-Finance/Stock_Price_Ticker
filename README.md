@@ -1,4 +1,4 @@
-# CircuitPython Stock Tracker
+# Seeeduino XIAO CircuitPython Stock Tracker
 
 A real-time stock ticker display using Seeed Studio hardware and the Tiingo financial data API.
 
