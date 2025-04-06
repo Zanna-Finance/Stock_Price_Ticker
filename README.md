@@ -17,8 +17,8 @@ This project creates a compact, portable stock price tracker that cycles through
 
 ## Hardware Requirements
 
-- [Seeed Studio XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) or compatible CircuitPython board
-- [Seeed Studio Round Display for XIAO](https://www.seeedstudio.com/Seeed-Studio-Round-Display-for-XIAO-p-5593.html) - GC9A01 based 1.28" 240x240 round LCD
+- [Seeed Studio XIAO ESP32S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html) or compatible CircuitPython board
+- [Seeed Studio Round Display for XIAO](https://www.seeedstudio.com/Seeed-Studio-Round-Display-for-XIAO-p-5638.html) - GC9A01 based 1.28" 240x240 round LCD
 - USB cable for power and programming
 
 ## Software Requirements
